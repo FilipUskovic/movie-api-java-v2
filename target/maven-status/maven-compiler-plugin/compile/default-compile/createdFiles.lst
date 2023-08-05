@@ -1,0 +1,10 @@
+com/example/movies/MoviesApplication$1.class
+com/example/movies/movies/ReviewRepository.class
+com/example/movies/movies/Movie.class
+com/example/movies/movies/MovieController.class
+com/example/movies/movies/MovieRepository.class
+com/example/movies/movies/ReviewService.class
+com/example/movies/movies/ReviewController.class
+com/example/movies/movies/Review.class
+com/example/movies/movies/MovieService.class
+com/example/movies/MoviesApplication.class
